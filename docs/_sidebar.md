@@ -4,6 +4,7 @@
   - [Ubuntu server](ubuntu_server.md)
   - [Docker compose](docker_compose.md)
   - [Kubenetes](kubernetes.md)
+  - [Cenit and NGINX](cenit_nginx.md)
 
 - Tutorials
   - [Basic Integration](generic_view.md)
